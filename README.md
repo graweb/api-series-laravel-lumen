@@ -15,9 +15,13 @@ Documentation for the framework can be found on the [Lumen website](https://lume
 
 Thank you for considering contributing to Lumen! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
 
-## Security Vulnerabilities
+## Install
 
-If you discover a security vulnerability within Lumen, please send an e-mail to Taylor Otwell at taylor@laravel.com. All security vulnerabilities will be promptly addressed.
+1 - Clone the repository
+2 - Install composer (php artisan composer install)
+3 - Create the database in database folder (database.sqlite)
+4 - Install migrations
+5 - php artisan serve
 
 ## License
 
