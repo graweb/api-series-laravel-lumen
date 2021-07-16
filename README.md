@@ -22,7 +22,7 @@ Thank you for considering contributing to Lumen! The contribution guide can be f
 <p>1 - Clone the repository</p>
 <p>2 - Install composer (composer install)</p>
 <p>3 - Create the database in database folder (database.sqlite)</p>
-<p>4 - Install migrations (php artisan migrate_</p>
+<p>4 - Install migrations (php artisan migrate)</p>
 <p>5 - run serve (php artisan serve)</p>
 
 ## License
