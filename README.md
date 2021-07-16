@@ -25,6 +25,10 @@ Thank you for considering contributing to Lumen! The contribution guide can be f
 <p>4 - Install migrations (php artisan migrate)</p>
 <p>5 - run serve (php artisan serve)</p>
 
+## POSTMAN
+<p>Open API Series.postman_collection.json in Postman to test the API</p>
+<p>[Download postman](https://www.postman.com/).</p>
+
 ## License
 
 The Lumen framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
