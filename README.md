@@ -1,3 +1,5 @@
+<p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
+
 # Lumen PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/lumen-framework.svg)](https://travis-ci.org/laravel/lumen-framework)
@@ -17,11 +19,11 @@ Thank you for considering contributing to Lumen! The contribution guide can be f
 
 ## Install
 
-1 - Clone the repository
-2 - Install composer (php artisan composer install)
-3 - Create the database in database folder (database.sqlite)
-4 - Install migrations
-5 - php artisan serve
+<p>1 - Clone the repository</p>
+<p>2 - Install composer (php artisan composer install)</p>
+<p>3 - Create the database in database folder (database.sqlite)</p>
+<p>4 - Install migrations (php artisan migrate_</p>
+<p>5 - run serve (php artisan serve)</p>
 
 ## License
 
